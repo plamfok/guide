@@ -58,7 +58,6 @@ The content of this repository is bound by the following licenses:
 
 
 
-Donate IBAN:BG12SOM91301058475102
 
 
 
