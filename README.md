@@ -59,8 +59,10 @@ The content of this repository is bound by the following licenses:
 
 
 Donate IBAN:BG12SOM91301058475102
-https://www.paypal.com/donate/?hosted_button_id=D2RVZLELLJEN4
 
+
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=D2RVZLELLJEN4)
 
 
 
